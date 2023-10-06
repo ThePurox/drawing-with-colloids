@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/701301428.svg)](https://zenodo.org/badge/latestdoi/701301428)
+
 # Arbitrary Transport
 
  This is a [julia](https://julialang.org) code-base for simulating trajectories of (para/dia)-magnetic colloids above magnetic patterns.
